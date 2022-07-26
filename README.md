@@ -1,7 +1,7 @@
 # Schema Design
-  # Food Item 
-  # Meal
-  # User
+  1. Food Item 
+  2. Meal
+  3. User
   
 # Post API using express 
  
