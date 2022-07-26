@@ -6,7 +6,7 @@
 # Post API using express 
  
 # Dependancy
-  npm i express
-  npm i nodemon
-  npm i mongoose
-  npm i dotenv
+  1. npm i express
+  2. npm i nodemon
+  3. npm i mongoose
+  4. npm i dotenv
