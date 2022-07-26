@@ -5,4 +5,8 @@
   
 # Post API using express 
  
-  
+# Dependancy
+  npm i express
+  npm i nodemon
+  npm i mongoose
+  npm i dotenv
